@@ -1,6 +1,5 @@
 async function main() {
 	
-  alert("test")
   handleStats()
   
 }
